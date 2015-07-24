@@ -1,0 +1,101 @@
+.contenedor{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+.galleta_pr {
+	margin: auto;
+	width: 300px;
+	height: 150px;
+	border-radius: 25px;
+	margin-top: 70px;
+}
+nav{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	text-align: center;
+	background-color: grey;
+	z-index: 2;
+}
+li{
+	display: inline-block;
+	margin: 10px;
+}
+#inicio{
+	width: 100%;
+	height: 520px;
+	border: 1px solid black;
+	margin: auto;
+	background-color: #A7EBFF;
+	padding-top: 60px;
+	display: block;
+}
+#quien{
+	width: 100%;
+	height: 800px;
+	border: 1px solid black;
+	margin: auto;
+	background-color: #FFC8AE;
+	padding-top: 60px;
+}
+#precios{
+	width: 100%;
+	height: 520px;
+	border: 1px solid black;
+	margin: auto;
+	background-color: #9898FF;
+	padding-top: 60px;
+}
+.galleta1, .galleta2, .galleta3, .galleta4{
+	width: 150px;
+	height: 150px;
+	position: relative;
+    top: 150px;
+    left: -230px;
+}
+.galleta2{
+    top: 80px;
+    left: -340px;
+}
+.galleta3{
+    top: 50px;
+    left: -400px;
+}
+.galleta4{
+    top: 150px;
+    left: -580px;
+}
+.parrafo{
+	text-align: justify;
+	margin-left: 40%;
+	margin-right: 10%;
+	margin-top: auto;
+}
+.columna{
+	margin-right: 30px;
+	border:1px solid black;
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-top: 10%;
+	border-radius: 30px;
+}
+.somos{
+	height:200px; 
+	width:700px;
+	left:10%;
+	margin-top: 20%;
+	border-radius: 0px 50px 0px 50px;
+}
+.somos:hover{
+	height: 150px;
+	width: 600px;
+}
+.cosas li{
+	display: block;
+}
+.divs{
+	display: inline-block;
+	height: 600px;
+}
